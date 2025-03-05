@@ -45,3 +45,8 @@ button {
     color: #666; /* Couleur du texte */
     line-height: 1.6; /* Hauteur de ligne pour améliorer la lisibilité */
 }
+#galerie img {
+    width: 100%;
+    max-width: 200px;
+    margin: 10px;
+}
